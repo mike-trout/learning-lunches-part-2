@@ -2,4 +2,4 @@
 
 The completed code for the learning lunch part 2.
 
-Implementing the PUT /pizzas/{id} endpoint is left as an exercise.
+Implementing the `PUT /pizzas/{id}` endpoint is left as an exercise.
